@@ -27,7 +27,8 @@ hands:
   count: 1-per-file
   precision: estimated
 license:
-  name: CC-BY 4.0
+  type: CC-BY
+  version: 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 transcription-guidelines: SegmOnto
