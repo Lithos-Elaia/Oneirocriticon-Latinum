@@ -1,33 +1,84 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: Oneirocriticon-Latinum
-url: https://github.com/Lithos-Elaia/Oneirocriticon-Latinum
 authors:
-  - name: Pierre-Olivier
-    surname: Beaulnes
-    orcid: 0009-0009-2475-6017
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-institutions: []
+- name: Pierre-Olivier
+  orcid: 0009-0009-2475-6017
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Beaulnes
+automatically-aligned: false
+characters:
+  members:
+  - i
+  - e
+  - c
+  - u
+  - s
+  - t
+  - l
+  - a
+  - x
+  - o
+  - r
+  - D
+  - n
+  - b
+  - d
+  - p
+  - m
+  - ̃
+  - ;
+  - g
+  - f
+  - ꝵ
+  - h
+  - q
+  - y
+  - .
+  - ł
+  - ꝑ
+  - ͬ
+  - '&'
+  - U
+  - v
+  - ','
+  - ':'
+  - ꝗ
+  - ◊
+  - ̾
+  - ẜ
+  - '2'
+  mode: NFD
 description: >-
   Traitement des manuscrits contenant la traduction latin de l’Oneirocriticon du
   pseudo-Achmet.
-language:
-  - lat
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1176'
-  notAfter: '1799'
+format: Alto-XML
 hands:
   count: 1-per-file
   precision: estimated
+institutions: []
+language:
+- lat
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1799'
+  notBefore: '1176'
+title: Oneirocriticon-Latinum
 transcription-guidelines: SegmOnto
+url: https://github.com/Lithos-Elaia/Oneirocriticon-Latinum
+volume:
+- count: 2145
+  metric: characters
+- count: 2
+  metric: files
+- count: 97
+  metric: lines
+- count: 4
+  metric: regions
