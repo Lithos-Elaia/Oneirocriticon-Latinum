@@ -61,8 +61,8 @@ language:
 - lat
 license:
   type: CC-BY
-  version: 4.0
   url: https://creativecommons.org/licenses/by/4.0/
+  version: 4.0
 production-software: eScriptorium + Kraken
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
