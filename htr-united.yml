@@ -77,7 +77,7 @@ url: https://github.com/Lithos-Elaia/Oneirocriticon-Latinum
 volume:
 - count: 2145
   metric: characters
-- count: 2
+- count: 1
   metric: files
 - count: 97
   metric: lines
