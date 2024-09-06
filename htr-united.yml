@@ -10,44 +10,78 @@ automatically-aligned: false
 characters:
   members:
   - i
-  - e
-  - c
   - u
+  - e
   - s
-  - t
-  - l
   - a
-  - x
+  - t
   - o
-  - r
-  - D
-  - n
-  - b
-  - d
-  - p
-  - m
+  - l
+  - c
+  - .
+  - x
   - ̃
-  - ;
+  - n
+  - r
+  - d
+  - b
+  - D
+  - p
+  - ̾
+  - m
   - g
+  - C
+  - 
+  - ⁊
   - f
   - ꝵ
+  - ¶
   - h
   - q
-  - y
-  - .
-  - ł
+  - ;
   - ꝑ
-  - ͬ
-  - '&'
+  - ł
+  - ꝰ
+  - y
   - U
+  - ꝙ
+  - I
+  - ꝯ
+  - ͥ
+  - E
+  - S
+  - ꝗ
+  - ᷑
+  - ẜ
+  - ꝓ
+  - ͣ
+  - '&'
+  - ':'
+  - A
+  - ħ
+  - '2'
+  - N
+  - Q
+  - O
+  - ^
+  - ͬ
+  - L
+  - B
+  - M
+  - '7'
   - v
   - ','
-  - ':'
-  - ꝗ
   - ◊
-  - ̾
-  - ẜ
-  - '2'
+  - z
+  - ͦ
+  - '9'
+  - T
+  - ͫ
+  - ᷝ
+  - ÷
+  - '1'
+  - '0'
+  - R
   mode: NFD
 description: >-
   Traitement des manuscrits contenant la traduction latin de l’Oneirocriticon du
@@ -75,11 +109,11 @@ title: Oneirocriticon-Latinum
 transcription-guidelines: SegmOnto
 url: https://github.com/Lithos-Elaia/Oneirocriticon-Latinum
 volume:
-- count: 2145
+- count: 9374
   metric: characters
-- count: 1
-  metric: files
-- count: 97
-  metric: lines
 - count: 4
+  metric: files
+- count: 278
+  metric: lines
+- count: 31
   metric: regions
