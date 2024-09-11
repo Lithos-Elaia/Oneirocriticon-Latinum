@@ -1,5 +1,17 @@
-Identifiant,Segmentation,Transcription,Pages,Date,Lien notice et/ou fac-similé numérique,Lieu de conservation
-LT01, 0/138, 0/138, 138, XII, https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4225, Oxford Bodleian MS. Digby 103
-LT02, 0/38, 0/38, 38, XIII-XIV, http://diglib.hab.de/mss/87-7-aug-2f/start.htm, Wolfenbüttel HAB Cod. Guelf. 87.7 Aug. 2o
-LT03, 0/99, 0/99, 99, XIV, http://resolver.staatsbibliothek-berlin.de/SBB0000682D00000000, Berlin SBPK Ms. lat. fol. 484
-LT04, 1/28, 0/28, 28, XIV, http://irnerio.cirsfid.unibo.it/browser/154/007r/, Bologne Coll. di Spagna	MS 154
+Identifiant,Segmentation,Transcription,Pages,Siècle,Lien notice et/ou fac-similé numérique,Lieu de conservation, Cote
+LT01, 0/138, 0/138, 138, XII, https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4225, Oxford Bodleian, MS. Digby 103
+LT02, 0/38, 0/38, 38, XIII-XIV, http://diglib.hab.de/mss/87-7-aug-2f/start.htm, Wolfenbüttel HAB, Cod. Guelf. 87.7 Aug. 2o
+LT03, 0/99, 0/99, 99, XIV, http://resolver.staatsbibliothek-berlin.de/SBB0000682D00000000, Berlin SBPK, Ms. lat. fol. 484
+LT04, 1/28, 0/28, 28, XIV, http://irnerio.cirsfid.unibo.it/browser/154/007r/, Bologne Coll. di Spagna,	MS 154
+LT05, 0/140, 0/140, 140, XIV, /, Prague KPMK, MS L.LXI (1306)
+LT06, 0/232, 0/232, 232, XIV, https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:98756, Milan Bib. Ambrosiana, T 81 sup.
+LT07
+LT08
+LT09
+LT10
+LT11
+LT12
+LT13
+LT14
+LT15
+LT16
