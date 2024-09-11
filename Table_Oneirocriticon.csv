@@ -6,12 +6,9 @@ LT04, 1/28, 0/28, 28, XIV, http://irnerio.cirsfid.unibo.it/browser/154/007r/, Bo
 LT05, 0/140, 0/140, 140, XIV, /, Prague KPMK, MS L.LXI (1306)
 LT06, 0/232, 0/232, 232, XIV, https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:98756, Milan Bib. Ambrosiana, T 81 sup.
 LT07, 0/148, 0/148,148, XIV, /, Prague KPMK, MS L.LXI (1306)
-LT08
-LT09
-LT10
-LT11
-LT12
-LT13
-LT14
-LT15
-LT16
+LT08, 0/64, 0/64, 64, XIV/XV, https://digi.vatlib.it/mss/detail/Vat.lat.4094, Vatican BAV, Vat.lat.4094
+LT09, 0/178, 0/178, 178, XV, https://gateway-bayern.de/BV047038897, Augsbourg SSB, 4 Cod 180
+LT10, 0/192, 0/192, 192, XV, https://resolver.staatsbibliothek-berlin.de/HSP00047B0600000000, Berlin SBPK, Ms. lat. qu. 435 
+LT11, 0/83, 0/83, 83, XV, https://arlima.net/no/9338, Carpentras Bib. Inguimbertine, Ms 337
+LT12, 0/101, 0/101, 101, XV, https://arlima.net/no/9338, Florence Bib. Riccardiana, Ricc. 859.
+LT13, 0/144, 0/144, 144, XV, /, Florence Bib. Riccardiana, Ricc. 859
