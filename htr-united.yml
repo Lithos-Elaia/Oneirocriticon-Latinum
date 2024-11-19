@@ -84,7 +84,7 @@ characters:
   - R
   mode: NFD
 description: >-
-  Traitement des manuscrits contenant la traduction latin de l’Oneirocriticon du
+  Traitement des manuscrits contenant la traduction latine de l’Oneirocriticon du
   pseudo-Achmet.
 format: Alto-XML
 hands:
